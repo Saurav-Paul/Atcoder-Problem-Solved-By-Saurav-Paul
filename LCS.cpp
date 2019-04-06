@@ -60,7 +60,7 @@ int main()
             ans.pb(a[i-1]);
             i--;
             j--;
-        }
+        } 
     }
     reverse(all(ans));
     cout<<ans<<endl;
