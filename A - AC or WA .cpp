@@ -1,0 +1,12 @@
+				/*Saurav Paul*/
+#include<bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+  int n, m;
+  cin >> n >> m;
+  cout << (m < n ? "No" : "Yes") << endl;
+
+  return 0;
+}
